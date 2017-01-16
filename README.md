@@ -11,5 +11,5 @@ Pre-requisites:
            - In android IDEs , the properties file must be defined in the root directory of the android file system i.e., "/" .
 
 *  The methods and its class name must be defined in TestIt.properties file in the following way :
-             class = class_name
-             methods = method_name1,method_name2,method_nameN
+            class = class_name
+            methods = method_name1,method_name2,method_nameN
